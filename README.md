@@ -1,5 +1,5 @@
-backup-whm-cpanel-reseller-account
-==================================
+Auto Backup WHM and cPanel Resellers Accounts
+=============================================
 
 Auto Backup WHM and cPanel Resellers Accounts
 
